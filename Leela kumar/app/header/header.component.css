@@ -1,0 +1,35 @@
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    overflow: hidden;
+    height: 50px;
+    line-height: 50px;
+    color: rgba(255,255,255,.6);
+    background-color:#3e4551 !important;
+    text-align: center;
+    font-size:1.5rem;
+    
+}
+.navbar.navbar-default{
+box-shadow: 0 0 10px 0 #333;
+}
+.navbar-default {
+    background-color:#3e4551 !important;
+    border-bottom: 0px solid #e7e7e7;
+}
+.dropdown.open a.dropdown-toggle{
+    background-color:#3e4551 !important;color:#ffffff;font-size:1.5rem;
+}
+a.navbar-brand:hover,a.navbar-brand:focus,a.navbar-brand{color:#ffffff;background-color:#3e4551 !important;padding: 2.5rem 3rem;margin:0 !important;}
+.nav a, .navbar-right a{color:#ffffff;padding: 2.5rem 3rem;}
+ .dropdown-menu a{color:#ffffff;padding: 1rem 2.2rem;}
+.nav a:hover, .navbar-right a:hover, .dropdown.open a.dropdown-toggle,.nav>li>a:focus, .nav>li>a:hover{
+    background-color:#333333 !important;
+    color:#ffffff;
+}
+.navbar-nav>li>.dropdown-menu a{color:#333333;}
+.navbar-nav>li>.dropdown-menu a:hover{color:#ffffff;}
+.avatar{width:15%;border-radius: 50%;margin-right: 1rem;float: left;}
+@media (min-width: 768px){
+.navbar-right.loggedin {
+    width: 250px;
+}}
+.navbar{margin: 0 !important;}

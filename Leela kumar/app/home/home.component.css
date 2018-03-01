@@ -1,0 +1,23 @@
+.header-top {
+	background: #000 url("../../assets/cta-bkg.jpg") center top no-repeat;
+	background-size: cover;
+}
+.home-cta-5 {
+	height: 768px;
+	height: 85vh;
+}
+a.btn-default {
+	background: #59595c;
+	border: solid 2px #fff;
+    color: #fff;
+    padding: 2rem 0;
+}
+a.btn-default:hover {
+	background: #000000;
+	border: solid 2px #fff;
+    color: #fff;
+    padding: 2rem 0;
+}
+a.btn-primary {
+    padding: 2rem 0;
+}
